@@ -1,26 +1,12 @@
 
 # Recipe Website
 
-## Group Member: Yun Feng, Jiaxue Li, Ziming Jia
 🥖Check out here： https://recipego.vercel.app/
 
 ## Tech Stack
 Front End: React, TypeScript, React Query, Tailwind CSS, MUI Components
 
 Back End: Express, TypeScript, MongoDB, Mongoose, Auth0
-
-# assignment-03
-
-You will be working in groups of up to 3 students for this project.
-
-The goal is to develop a "Software as a Service" web application performing CRUD operations based on React, NodeJs and Prisma (Some examples include an online store, food ordering, personal journal, learning management system, social network, ...).
-
-Note: The topic should be different from your application in assignment 2 
-
-Your project must support some functionality for anonymous users and only force users to log in if a user identity is required to fulfill a service. For instance, in an online store, anonymous users should be able to search for products, view product details, read product reviews, etc. If a user would like to bookmark a product, comment on a product, or add a product to a shopping cart, then, and only then, would the website ask the user to identify themselves or register.
-
-# Page Requirements
-Your application must have at least these 5 pages:
 
 ## Homepage
 - The landing page of your web application. It is the first page users should see when they visit your website. 
